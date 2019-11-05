@@ -1,0 +1,16 @@
+.user{
+  margin-left: 3%;
+  float: left;
+  margin-top: 7%;
+}
+.lesson-tag{
+  margin-right: 3%;
+  margin-top: 8%;
+  float: right;
+  height: 25%;
+  background-color: rgba(168, 250, 202, 0.555);
+}
+.avatar{
+  float: left;
+  padding: 2%;
+}

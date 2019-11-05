@@ -1,0 +1,15 @@
+.quest {
+  margin: 5%;
+}
+
+.user {
+  margin-left: 5%;
+}
+
+.tag {
+  height: 20px;
+  color: blue;
+  float: right;
+  margin-right: 4%;
+  margin-bottom: 4%;
+}

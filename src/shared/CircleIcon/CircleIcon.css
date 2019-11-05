@@ -1,0 +1,13 @@
+.circle-icon {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  z-index: 1000;
+  border-radius: 100%;
+  background-color: rgb(34, 148, 177);
+}
+
+/* .circle-icon button:hover,
+.circle-icon button:active{
+  background-color: brown;
+} */

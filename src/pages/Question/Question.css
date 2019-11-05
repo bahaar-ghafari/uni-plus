@@ -1,0 +1,5 @@
+.question {
+  margin: 2%;
+  height: 97%;
+  overflow-y: scroll;
+}

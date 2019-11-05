@@ -1,0 +1,19 @@
+.main-part {
+  width: 23%;
+  height: 70%;
+  color: rgba(23, 24, 8, 0.61);
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: black;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 13px;
+}
+
+.main-part:hover,
+.main-part:active{
+  color: rgb(28, 226, 216);
+}
