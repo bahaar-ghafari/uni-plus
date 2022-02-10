@@ -5,7 +5,7 @@
   "dependencies": {
     "@ionic/core": "^4.1.1",
     "@ionic/react": "0.0.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-router-dom": "^4.3.1",
